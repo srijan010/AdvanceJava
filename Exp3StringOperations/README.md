@@ -7,6 +7,10 @@ CheckNumeric-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperat
 
 CountWordsInString-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperations/CountWordsInString.png
 
+CountSubstringOccurrences-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperations/CountSubstringOccurrences.png
+
+PalindromeChecker-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperations/PalindromeChecker.png
+
 RandomStringGenerator-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperations/RandomStringGenerator.png
 
 RemoveWhitespace-https://github.com/srijan010/AdvanceJava/blob/main/Exp3StringOperations/RemoveWhitespace.png
